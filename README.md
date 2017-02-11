@@ -1,0 +1,1 @@
+# woocomerce_restrict_category
